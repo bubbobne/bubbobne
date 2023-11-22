@@ -12,6 +12,9 @@
 <img src="https://komarev.com/ghpvc/?username=bubbobne&style=flat-square&color=blue" alt=""/>
 </div>
 
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=bubbobne)
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="bash" width="45" height="45"/>
