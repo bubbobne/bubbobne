@@ -31,7 +31,7 @@
 
 </p>
 Angular.js 	![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 <!---
 bubbobne/bubbobne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
