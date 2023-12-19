@@ -12,7 +12,6 @@
 <img src="https://komarev.com/ghpvc/?username=bubbobne&style=flat-square&color=blue" alt=""/>
 </div>
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=bubbobne&limit=5)
 
 
 <h2> 🚀 &nbsp;Some Tools I used</h2>
