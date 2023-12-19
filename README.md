@@ -11,6 +11,8 @@
   </a>
 </div>
 
+## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubbobne&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <h2> 🚀 &nbsp;Some Tools I used</h2>
 <p align="left">
