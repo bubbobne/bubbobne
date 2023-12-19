@@ -10,10 +10,10 @@
 
 
 <div id="badges">
-  <a href="in/daniele-andreis-64690235">
+  <a href="https://www.linkedin.com/in/daniele-andreis-64690235">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="@bubbobne">
+  <a href="https://twitter.com/bubbobne">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
