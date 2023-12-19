@@ -8,9 +8,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-  <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=bubbobne&style=flat-square&color=blue" alt=""/>
-</div>
+
+
 
 
 
