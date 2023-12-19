@@ -42,7 +42,7 @@
   </a>
 </div>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=bubbobne)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=bubbobne)]
 
 <!---
 bubbobne/bubbobne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
