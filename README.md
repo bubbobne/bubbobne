@@ -1,15 +1,7 @@
 ## 👋 Hi, I’m @bubbobne
 ## 👀 I’m interested in ...
 ## 🌱 I’m currently learning ...
-## 📫 How to reach me ...
-<div id="badges">
-  <a href="https://www.linkedin.com/in/daniele-andreis-64690235">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/bubbobne">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubbobne&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -40,7 +32,15 @@
 
 </p>
 
-
+## 📫 How to reach me ...
+<div id="badges">
+  <a href="https://www.linkedin.com/in/daniele-andreis-64690235">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/bubbobne">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <!---
 bubbobne/bubbobne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
