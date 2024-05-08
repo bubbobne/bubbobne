@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubbobne&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Bubbone's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubbobne)](https://github.com/bubbobne/github-readme-stats)
 
 <h2> 🚀 &nbsp;Some Tools I used</h2>
 <p align="left">
