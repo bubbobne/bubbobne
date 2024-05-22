@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @bubbobne
 ## 👀 I’m interested in ...
-## 🌱 I’m currently learning ...
-
+## 🌱 I’m currently learning
+Julia programming
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubbobne&theme=dark&background=000000)](https://git.io/streak-stats)
