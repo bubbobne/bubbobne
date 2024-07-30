@@ -7,7 +7,7 @@ Hello! I'm Daniele, a PhD student in Hydrology at Trento, specializing in rainfa
 - Statistical Analysis in Water Management
 
 ## Key Projects
-- [GEOframe](https://github.com/username/rainfall-runoff-model](https://github.com/geoframecomponents)
+- [GEOframe](https://github.com/geoframecomponents)
 
   
 ## 🌱 I’m currently learning
