@@ -1,7 +1,25 @@
-## 👋 Hi, I’m @bubbobne
-## 👀 I’m interested in ...
+# 👋 Welcome to My GitHub Profile
+
+Hello! I'm Daniele, a PhD student in Hydrology at Trento, specializing in rainfall-runoff models and sustainable water management. My research integrates remote sensing to improve water flow predictions.
+
+## 👀 Research Interests
+- Rainfall-Runoff Modeling
+- Statistical Analysis in Water Management
+
+## Key Projects
+- [GEOframe]([https://github.com/username/rainfall-runoff-model](https://github.com/geoframecomponents))
+
+  
 ## 🌱 I’m currently learning
 Julia programming
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/daniele-andreis-64690235)
+- [ResearchGate](https://www.researchgate.net/profile/Daniele-Andreis-2)
+- [Twitter](https://x.com/bubbobne)
+- [Blog](https://dungizm.blogspot.com/)
+
+
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubbobne&theme=dark&background=000000)](https://git.io/streak-stats)
