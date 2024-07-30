@@ -13,13 +13,6 @@ Hello! I'm Daniele, a PhD student in Hydrology at Trento, specializing in rainfa
 ## 🌱 I’m currently learning
 Julia programming
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/daniele-andreis-64690235)
-- [ResearchGate](https://www.researchgate.net/profile/Daniele-Andreis-2)
-- [Twitter](https://x.com/bubbobne)
-- [Blog](https://dungizm.blogspot.com/)
-
-
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bubbobne&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -51,16 +44,11 @@ Julia programming
 </p>
 
 ## 📫 How to reach me ...
-<div id="badges">
-  <a href="https://www.linkedin.com/in/daniele-andreis-64690235">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/bubbobne">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+- [LinkedIn](https://www.linkedin.com/in/daniele-andreis-64690235)
+- [ResearchGate](https://www.researchgate.net/profile/Daniele-Andreis-2)
+- [Twitter](https://x.com/bubbobne)
+- [Blog](https://dungizm.blogspot.com/)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=bubbobne)](https://github.com/gazf/github-readme-twitter)
 <!---
 bubbobne/bubbobne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
